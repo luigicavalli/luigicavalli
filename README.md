@@ -15,3 +15,5 @@
 -  **Libraries :** React.js
 -  **Hobbies :** Videogames 🕹️, Music 🎵, Travelling ✈️
 -  **Speaking :** Italian, English, Spanish and a little bit of German and Hebrew
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigicavalli&theme=tokyonight)
