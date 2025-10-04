@@ -12,7 +12,7 @@
 ## About me
 -  **Learning :** Full-Stack Development 💻
 -  **Languages :** JavaScript, TypeScript, Node.js, HTML, CSS
--  **Libraries :** React.js
+-  **Libraries :** React, Angular, Vue, Nuxt
 -  **Hobbies :** Videogames 🕹️, Music 🎵, Travelling ✈️
 -  **Speaking :** Italian, English, Spanish and a little bit of German and Hebrew
 
