@@ -46,9 +46,5 @@ I'm currently working on improving my full-stack skills, with a focus on fronten
 
 ## 🚀 Projects
 
-### 🔹 [Norvia Studio](https://norvia-studio.web.app) (Released)
+### 🔹 [Norvia Studio](https://norvia-studio.luigicavalli.it) (Released)
 A lightweight but comprehensive management system for creative agencies, design studios, and freelance teams — covering **clients**, **projects**, **billing**, and **internal resources** in a single workspace.
-
-### 🔹 CodeTalk (Work in progress)
-Real-time messaging platform for developers built with React, TypeScript and WebSocket.  
-Focus on scalability and clean architecture.
